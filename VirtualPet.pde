@@ -32,8 +32,7 @@ void draw(){
 //eyes
   fill(#371C13);
   ellipse(170, 150, 10, 10);
-}
-
+  
 //nose
   fill(#371C13);
   triangle(182, 160, 218, 160, 200, 175);
@@ -42,4 +41,6 @@ void draw(){
   strokeWeight(3);
   stroke(#371C13);
   line(200, 175, 200, 180);
+}
+
 
