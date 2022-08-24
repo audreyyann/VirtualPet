@@ -33,6 +33,9 @@ void draw(){
   fill(#371C13);
   ellipse(170, 150, 10, 10);
   
+  fill(#371C13);
+  ellipse(230, 150, 10, 10);
+  
 //nose
   fill(#371C13);
   triangle(182, 160, 218, 160, 200, 175);
