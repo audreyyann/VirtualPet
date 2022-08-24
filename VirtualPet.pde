@@ -21,6 +21,13 @@ void draw(){
   noStroke();
   fill(#A85848);
   ellipse(250, 300, 50, 50);
+ 
+//paws
+  fill(#A85848);
+  ellipse(150, 220, 50, 50);
+  
+  fill(#A85848);
+  ellipse(250, 220, 50, 50);
   
 //ears
   fill(#A85848);
